@@ -1,5 +1,7 @@
 # Merged Body Setup
 
+This is just the merge body code for the project MarcoPredatoro, this link will take you to the kinect side of the game where you can see an example of it being used in a [game](https://github.com/MarcoPredatoro/NewBodyTracking)
+
 #### 1) Install VS Extentions
 
 Open Visual Studio Installer application.
